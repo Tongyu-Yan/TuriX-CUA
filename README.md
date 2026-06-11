@@ -387,3 +387,7 @@ For bug reports and feature requests, please [open an issue](https://github.com/
 | **2026 Q2** | **Browser Automation** | Support a Chrome-like browser for scalability |
 | **2026 Q2** | **Persistent Memory** | Learn user preferences and maintain task history across sessions |
 | **2026 Q2** | **Learning by Demonstration** | Train the agent by showing it your preferred methods and workflows |
+
+## Download History
+
+[![Download History](https://skill-history.com/chart/tongyu-yan/turix-cua.svg)](https://skill-history.com/tongyu-yan/turix-cua)
